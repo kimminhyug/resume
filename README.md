@@ -13,7 +13,6 @@
  ###### * 기간 : 2020.05~2021.12(1년 8개월)
  ###### * 사업규모 : 1차년도 1.5억, 2차년도 4.5억 총 6억
 
- ###### * 깃허브 : https://github.com/kimminhyug/dnaplus_captures
 
  ###### * 참조 :
 
@@ -47,7 +46,6 @@
  ###### * 인원 : 개발자 1
  ###### * 기간 : 2020.03~2021.12(1년 10개월)
 
- ###### * 깃허브 : https://github.com/kimminhyug/wsglmap_capture
 
  ###### * 내용 :
  ###### - 사내 2D지도 솔루션 JavaScript Maps API 설계 / 개발
